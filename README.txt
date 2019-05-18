@@ -3,4 +3,4 @@ It's purpose was to design an application that could help the company I worked f
 to have all Estimate appointments be set and stored in one place instead of the 
 many places we had to enter information. 
 
-This app does not have any useful code in it, it is purely a design. 
+This app does not have any useful code in it, it is purely a simple design meant to be created quickly to demonstrate design capabilities.
